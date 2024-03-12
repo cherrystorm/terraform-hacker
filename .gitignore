@@ -24,3 +24,6 @@
 
 backend_local.tf
 **/*.exe*
+
+
+# git filter-branch -f --index-filter 'git rm --cached -r --ignore-unmatch .terraform/' This one is for ignoring the Terraform binaries

@@ -22,3 +22,4 @@
 *.hcl
 
 backend_local.tf
+**/*.exe
